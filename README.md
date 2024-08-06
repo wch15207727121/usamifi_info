@@ -1,3 +1,1 @@
-"# usamifi_info" 
-"# usamifi_info" 
-"# usamifi_info" 
+某路由器接口脚本化（需保持出厂账号密码）
